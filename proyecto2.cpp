@@ -8,7 +8,7 @@ int main (){
 	int i, j, k, op, filas, columnas, ale,num,cont,ordenar;
 	do{
 		do{
-			cout<<"¡¡Bienvndio!! \n Ingrese la opcion que desee \n";
+			cout<<"Â¡Â¡Bienvndio!! \n Ingrese la opcion que desee \n";
 			cout<<"1. Suma de Matrices \n";
 			cout<<"2. Transpuesta de una matriz \n";
 			cout<<"3. Multiplicacion de matrices \n";
@@ -406,7 +406,8 @@ int main (){
 			break;
 		}
 	}	
-		cout<<"¿Desea realizar otro proceso? \n Si desea realizar otro proceso ingrese cualquier otro NUMERO \n Si desea detener el programa ingrese el numero 8 \n";
+		cout<<"Â¿Desea realizar otro proceso? \n Si desea realizar otro proceso ingrese cualquier otro NUMERO \n Si desea detener el programa ingrese el numero 8 \n";
 		cin>>op;
 	}while(op!=8);
+	return 0;
 }
