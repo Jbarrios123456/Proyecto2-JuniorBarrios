@@ -26,6 +26,7 @@
 - [Formato Phyton](https://github.com/Jbarrios123456/Proyecto2-JuniorBarrios/blob/main/proyecto2py.py)
 
   # Link del Manual de Usuario de mi Proyecto No. 2
+  [Manual de Usuario Proyecto 2](https://github.com/Jbarrios123456/Manual-Usuario-P2/blob/main/README.md)
   
 
    
